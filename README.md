@@ -7,4 +7,4 @@ Detailed installation guidelines are provided in the [Pega Team Connect Implemen
 
 ## Demo
 
-[Here](https://youtu.be/srS0xkCEHzw)
+[Here](https://youtu.be/tUpnLF_m4N0)
